@@ -1,2 +1,2 @@
 # rest-api-python
-A RESTful API using python and flask
+A basic RESTful API using python and flask for example purposes of a flask app.
