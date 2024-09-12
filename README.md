@@ -48,3 +48,6 @@ curl -u "admin:secret" http://127.0.0.1:5000/secrets (If "admin" or "secret" is 
 
 *Logging*
 curl http://127.0.0.1:5000/logging (Generates an "app.log" file where all the logs are directed, different levels indicate the different type of information from the logs.)
+
+#### Reference
+https://blog.luisrei.com/articles/flaskrest.html
