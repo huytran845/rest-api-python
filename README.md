@@ -7,10 +7,10 @@ The purpose of this project was to demonstrate the basic functionalities and fea
 #### How to Run and Install
 ***This project was made to be demonstrated on the Ubantu environment***
 ***Make sure you have python 3+ installed***
-1.Download the restAPI.py file.
-2.Open up a terminal.
-3.Enter the command: "sudo pip install flask".
-4.Run the program with: "python3 restAPI.py".
+1. Download the restAPI.py file.
+2. Open up a terminal.
+3. Enter the command: "sudo pip install flask".
+4. Run the program with: "python3 restAPI.py".
 
 #### How to Use The Framework
 *Testing root*
